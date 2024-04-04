@@ -1,0 +1,18 @@
+baseURL: https://akitaonrails.com/
+languageCode: pt-BR
+title: AkitaOnRails
+theme: ["PaperMod"]
+taxonomies:
+  tag: tags
+  year: years
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+params:
+  disableSpecial1stPost: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
