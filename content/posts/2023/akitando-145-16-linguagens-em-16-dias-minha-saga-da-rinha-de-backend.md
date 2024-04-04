@@ -1,7 +1,7 @@
 ---
 title: "[Akitando] #145 - 16 Linguagens em 16 Dias: Minha Saga da Rinha de Backend"
 date: "2023-09-20T18:35:00.000Z"
-tags: ["docker", "gatling", "c#", "rust", "go lang", "nim lang", "v lang", "bun", "javascript", "php", "swoole", "python", "sanic", "hyperf", "ruby on rails", "ruby", "node.js", "akitando"]
+tags: ["docker", "gatling", "csharp", "rust", "go lang", "nim lang", "v lang", "bun", "javascript", "php", "swoole", "python", "sanic", "hyperf", "ruby on rails", "ruby", "node.js", "akitando"]
 years: "2023"
 ---
 

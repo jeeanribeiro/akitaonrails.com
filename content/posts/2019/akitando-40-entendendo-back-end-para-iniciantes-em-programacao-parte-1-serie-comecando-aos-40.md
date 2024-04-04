@@ -1,7 +1,7 @@
 ---
 title: "[Akitando] #40 - Entendendo Back-End para Iniciantes em Programação (Parte 1) | Série \"Começando aos 40\""
 date: "2019-02-20T20:00:00.000Z"
-tags: ["java", ".net", "c#", "clr", "jvm", "linux", "unix", "windows", "assembly", "compilador", "interpretador", "ruby", "python", "perl", "php", "apache", "golang", "akitando"]
+tags: ["java", ".net", "csharp", "clr", "jvm", "linux", "unix", "windows", "assembly", "compilador", "interpretador", "ruby", "python", "perl", "php", "apache", "golang", "akitando"]
 years: "2019"
 ---
 

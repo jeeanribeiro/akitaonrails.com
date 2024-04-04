@@ -1,7 +1,7 @@
 ---
 title: "[Akitando] #136 - Python? Java? Rust? Qual a Diferença? | Discutindo Linguagens"
 date: "2023-01-18T11:00:00.000Z"
-tags: ["javascript", "java", "erlang", "elixir", "golang", "rust", "c#", "php", "ruby", "apache", "cassandra", "kafka", "akitando"]
+tags: ["javascript", "java", "erlang", "elixir", "golang", "rust", "csharp", "php", "ruby", "apache", "cassandra", "kafka", "akitando"]
 years: "2023"
 ---
 
