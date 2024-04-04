@@ -1,4 +1,4 @@
-baseURL: https://akitaonrails.com/
+baseURL: https://akitaonrails.netlify.app/
 languageCode: pt-BR
 title: AkitaOnRails
 theme: ["PaperMod"]
